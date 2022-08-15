@@ -29,5 +29,7 @@ public class Day2GitGithub {
         System.out.println("Hala ogrenmeye calisiyorum22222");
         System.out.println("Hala ogrenmeye calisiyorum3333");
         System.out.println("Hala ogrenmeye calisiyorum44444");
+
+        System.out.println("Branch deneme 1");
     }
 }
