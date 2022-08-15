@@ -16,6 +16,8 @@ public class Day2GitGithub {
     NOT: git log --oneline --> Commmitlerimdeki versiyonlari gosterir
     NOT: GitHub ogrendim
     Not: GitHub ogrendim2
+    6-) git pull --> Remote(yani uzak repo) dosyalarimizi guncellemek icin kullanilir(yani uzak repodaki projeleri
+    kendi localine yani pc'ne cekmek icin kullanilir)
 
      */
 
